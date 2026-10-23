@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: ajaia-docs
+    runtime: docker
+    plan: free
+    healthCheckPath: /api/health
+    envVars:
+      - key: SESSION_SECRET
+        generateValue: true
+      - key: DB_PATH
+        value: /tmp/app.db   # free tier has no persistent disk: data resets on redeploy/restart (seed users are re-created)

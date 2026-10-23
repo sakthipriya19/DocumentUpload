@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+
+# Build output and Angular cache
+dist/
+.angular/
+
+# Local SQLite data
+data/
+*.db
+*.db-wal
+*.db-shm
+
+# Environment / secrets
+.env
+.env.*
+
+# Logs
+npm-debug.log*
+*.log
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Packaged source
+*.zip
