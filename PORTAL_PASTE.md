@@ -2,8 +2,8 @@
 
 ## Links
 - Google Drive folder (all materials): **[PASTE DRIVE LINK]**
-- Live app: **[PASTE DEPLOYED URL]**
-- Walkthrough video: **[PASTE LOOM/YOUTUBE URL]**
+- Live app: **https://ajaia-docs-kqqm.onrender.com** (free tier: the first load may take ~30 s while the server wakes up; data resets on redeploy)
+- Walkthrough video: **https://www.loom.com/share/0b254723c3d644c18edde4fe8586b337**
 
 ## Test accounts (seeded, no password; click one on the login page)
 - alice@example.com (owner of the seeded "Welcome" doc)

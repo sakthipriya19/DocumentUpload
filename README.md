@@ -2,6 +2,8 @@
 
 A lightweight collaborative document editor: **Angular 19** (standalone components, signals) + **Quill 2** rich-text editor, **Express** API, **SQLite** (Node's built-in `node:sqlite`).
 
+**Live demo:** https://ajaia-docs-kqqm.onrender.com (sign in as alice@, bob@ or carol@example.com; no password)
+
 ## Features
 - Create, rename, edit, auto-save and reopen documents
 - Rich text: bold, italic, underline, headings (H1-H3), bulleted and numbered lists
